@@ -9,7 +9,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(2).pdf" style="text-decoration:none;">Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(3).pdf" style="text-decoration:none;">Many-to-Many Voice Conversion using Cycle-Consistent Variational Autoencoder with Multiple Decoders</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(3).pdf" style="text-decoration:none;">Applications of machine learning in drug discovery and development</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(4).pdf" style="text-decoration:none;">Classification of focal liver lesions on
 ultrasound images by extracting hybrid textural features and using an artificial neural network</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(5).pdf" style="text-decoration:none;">Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer</a></li>
@@ -106,7 +106,7 @@ cancer patients using machine learning techniques</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(51).pdf" style="text-decoration:none;">Application of Machine Learning Models for Survival Prognosis in Breast Cancer Studies</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(52).pdf" style="text-decoration:none;">Artificial Intelligence in Pathology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(53).pdf" style="text-decoration:none;">Automatic Prostate Cancer Classification using Deep Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(53).pdf" style="text-decoration:none;">Prediction of Breast Cancer Using Supervised Machine Learning Techniques</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(54).pdf" style="text-decoration:none;">Machine Learning with Applications in Breast Cancer Diagnosis and Prognosis</a></li>
 
@@ -154,6 +154,10 @@ segmentation in CT with fully convolutional neural networks and object-based pos
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(73).pdf" style="text-decoration:none;">Whole Slide Image Classification of Gastric Cancer using Convolutional Neural Networks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(74).pdf" style="text-decoration:none;">Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-ML-Papers/blob/master/onc(75).pdf" style="text-decoration:none;">Lung Cancer Detection Using Machine
+Learning Techniques</a></li> 
+  
+  
     </ul>
   
   
