@@ -158,6 +158,6 @@ segmentation in CT with fully convolutional neural networks and object-based pos
 Learning Techniques</a></li> 
   
   
-    </ul>
+</ul>
   
   
